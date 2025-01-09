@@ -23,8 +23,19 @@ Monitoring workers’ proximities to avoid struck-by hazards has aroused great c
 </div>
 <br>
 
-## Dataset & fine-tuned models
-coming soon
+## Dataset
+Coming soon...
+
+The dataset will be uploaded to
+- the TeraBox
+- and, the Baidu Netdisk
+
+## Fine-tuned model
+coming soon...
+
+The fine-tuned model will be uploaded to
+- the TeraBox
+- and, the Baidu Netdisk
 
 ## Results
 
