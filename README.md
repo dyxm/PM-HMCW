@@ -4,13 +4,11 @@
 <div align="center"><img src="https://github.com/user-attachments/assets/43938578-cb29-4340-ab38-620fcb53d372" alt="Demo 1" /></div>
 
 ## Introduction
-<div align="justify">
+<p align="justify">
 Monitoring workers’ proximities to avoid struck-by hazards has aroused great concern in construction safety management. Existing methods are either too laborious and costly to apply extensively or lack spatial perception for accurate monitoring. This study proposes a novel framework for proximity monitoring using only an ordinary two-dimensional (2D) camera to realize human-machine collision warning, which integrates a monocular three-dimensional (3D) object detection model and a post-processing classification module to identify four proximity categories: Dangerous, Potentially Dangerous, Concerned, and Safe. A new dataset containing 22,500 virtual and real-world construction images with 3D bounding box annotations is created and publicly released to facilitate system development and evaluation. Experiments show that the implemented system is real-time and camera carrier-independent, achieving an F1-score of roughly 0.8 within 50 meters. This study preliminarily reveals the potential and feasibility of proximity monitoring using only a 2D surveillance camera, providing a new, promising, and affordable way for early warning of human-machine collisions.
-      
+</p>
+
 **Keywords:** Construction safety management, Proximity monitoring, Human-machine collision, Struck-by hazards, Monocular three-dimensional object detection, Computer vision
-</div>
-
-
 
 
 ## Method
