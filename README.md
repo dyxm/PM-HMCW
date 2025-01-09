@@ -19,7 +19,7 @@ Monitoring workers’ proximities to avoid struck-by hazards has aroused great c
 ### Proximity definitions
 <div align="center">
       <img src="https://github.com/user-attachments/assets/e38b5a43-a0fa-4721-b5ed-f1ee56ef848d" width=300 alt="Proximity definitions" />
-      <img src="https://github.com/user-attachments/assets/e4f00887-9428-4379-a56f-0003b10ec27a" width=400 alt="Proximity definitions" />
+      <img src="https://github.com/user-attachments/assets/e4f00887-9428-4379-a56f-0003b10ec27a" width=600 alt="Proximity definitions" />
 </div>
 <br>
 
