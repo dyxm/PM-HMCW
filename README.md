@@ -15,12 +15,12 @@ Monitoring workers’ proximities to avoid struck-by hazards has aroused great c
 
 ## Method
 
-### Research framework
+- **Research framework**
 <div align="center"><img src="https://github.com/user-attachments/assets/96c83d14-6476-4b0c-a849-ef36b5adf7f4" alt="Research framework" /></div>
 <br>
 
 
-### Proximity definitions
+- **Proximity definitions**
 <div align="center">
       <img src="https://github.com/user-attachments/assets/e38b5a43-a0fa-4721-b5ed-f1ee56ef848d" width=300 alt="Proximity definitions" />
       <img src="https://github.com/user-attachments/assets/e4f00887-9428-4379-a56f-0003b10ec27a" width=600 alt="Proximity definitions" />
