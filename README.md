@@ -11,7 +11,17 @@ Monitoring workers’ proximities to avoid struck-by hazards has aroused great c
 
 ## Method
 
+### Research framework
+<div align="center"><img src="https://github.com/user-attachments/assets/96c83d14-6476-4b0c-a849-ef36b5adf7f4" alt="Research framework" /></div>
+<br>
 
+
+### Proximity definitions
+<div align="center">
+      <img src="https://github.com/user-attachments/assets/e38b5a43-a0fa-4721-b5ed-f1ee56ef848d" width=300 alt="Proximity definitions" />
+      <img src="https://github.com/user-attachments/assets/e4f00887-9428-4379-a56f-0003b10ec27a" width=400 alt="Proximity definitions" />
+</div>
+<br>
 
 ## Dataset
 coming soon
@@ -26,11 +36,11 @@ coming soon
 <div align="center">Demo 2. On real-world data. R_exclusion=4, R_warning=8</div>
 <br>
 
-<div align="center"><img src="https://github.com/user-attachments/assets/86c69376-b88d-4420-9e88-7da85180fcda" alt="Demo 2" /></div>
+<div align="center"><img src="https://github.com/user-attachments/assets/86c69376-b88d-4420-9e88-7da85180fcda" alt="Demo 3" /></div>
 <div align="center">Demo 3. On real-world data. R_exclusion=4, R_warning=8</div>
 <br>
 
-<div align="center"><img src="https://github.com/user-attachments/assets/c8e03760-e59e-4283-b53c-ed4c094d1d0f" alt="Demo 2" /></div>
+<div align="center"><img src="https://github.com/user-attachments/assets/c8e03760-e59e-4283-b53c-ed4c094d1d0f" alt="Demo 4" /></div>
 <div align="center">Demo 4. On real-world data. R_exclusion=4, R_warning=8</div>
 <br>
 
