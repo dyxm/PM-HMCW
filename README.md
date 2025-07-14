@@ -1,5 +1,5 @@
 # Monocular 3D Object Detection for Proximity Monitoring in Human-Machine Collision Warning Systems on Construction Sites
-[Paper](https://arxiv.org/abs/2305.17931) | [Results](#results) | [Dataset & Models](#dataset&models) | [Citation](#citation)
+[Paper](https://arxiv.org/abs/2305.17931) | [Results](#results) | [Dataset & Models](#dataset-&-models) | [Citation](#citation)
 
 ## Introduction
 <div align="center"><img src="https://github.com/user-attachments/assets/43938578-cb29-4340-ab38-620fcb53d372" alt="Demo 1" /></div>
