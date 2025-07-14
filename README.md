@@ -45,11 +45,10 @@ Monitoring workers’ proximities to avoid struck-by hazards has aroused great c
 
 
 ## Dataset
-Coming soon...
 
-The dataset will be uploaded to
-- the TeraBox
-- and, the Baidu Netdisk
+The dataset can be accessed at:
+- the [TeraBox](https://1024terabox.com/s/18QLXYfaaMEVhrU7JOLVkyQ)
+- and, the [Baidu Netdisk](https://pan.baidu.com/s/19T5X1D9QTbmSgLClUz4YsA) using the code **wnp5**
 
 ## Fine-tuned model
 coming soon...
