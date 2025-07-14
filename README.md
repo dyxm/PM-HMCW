@@ -62,6 +62,18 @@ The fine-tuned model will be uploaded to
 ## Citation
 Please cite our work if you find the dataset useful.
 ```
+@article{DING2025111722,
+      title = {Monocular three-dimensional object detection for proximity monitoring in human-machine collision warning systems on construction sites},
+      journal = {Engineering Applications of Artificial Intelligence},
+      volume = {159},
+      pages = {111722},
+      year = {2025},
+      issn = {0952-1976},
+      doi = {https://doi.org/10.1016/j.engappai.2025.111722},
+      url = {https://www.sciencedirect.com/science/article/pii/S0952197625017245},
+      author = {Yuexiong Ding and Qiong Liu and Ankang Ji and Heng Li and Xiaowei Luo},
+}
+
 @misc{ding2023monocular2dcamerabasedproximity,
       title={Monocular 2D Camera-based Proximity Monitoring for Human-Machine Collision Warning on Construction Sites}, 
       author={Yuexiong Ding and Xiaowei Luo},
