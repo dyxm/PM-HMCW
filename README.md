@@ -1,5 +1,5 @@
 # Monocular 3D Object Detection for Proximity Monitoring in Human-Machine Collision Warning Systems on Construction Sites
-[Paper](https://arxiv.org/abs/2305.17931) | [Results](#results) | [Dataset](#dataset) | [Citation](#citation)
+[Paper](https://arxiv.org/abs/2305.17931) | [Results](#results) | [Dataset & Models](#dataset&models) | [Citation](#citation)
 
 ## Introduction
 <div align="center"><img src="https://github.com/user-attachments/assets/43938578-cb29-4340-ab38-620fcb53d372" alt="Demo 1" /></div>
@@ -44,18 +44,11 @@ Monitoring workers’ proximities to avoid struck-by hazards has aroused great c
 <be>
 
 
-## Dataset
+## Dataset & Models
 
-The dataset can be accessed at:
+The dataset and trained models can be accessed at:
 - the [TeraBox](https://1024terabox.com/s/18QLXYfaaMEVhrU7JOLVkyQ)
 - and, the [Baidu Netdisk](https://pan.baidu.com/s/19T5X1D9QTbmSgLClUz4YsA) using the code **wnp5**
-
-## Fine-tuned model
-coming soon...
-
-The fine-tuned model will be uploaded to
-- the TeraBox
-- and, the Baidu Netdisk
 
 
 ## Citation
